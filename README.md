@@ -10,6 +10,8 @@ Talks, Blogs, Videos | Everything I found worth sharing - All Free, all awesome
 <br><br>
 ### Articles/Blogs/Reading Materials;
 - [Pure Functions Immutability and other software superpowers](https://medium.com/dailyjs/pure-functions-immutability-and-other-software-superpowers-dfe6039af8f6)
+- [Learn Typescript in 30 minutes](https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes)
+
 
 <br><br>
 ### Other Resource worth using;
