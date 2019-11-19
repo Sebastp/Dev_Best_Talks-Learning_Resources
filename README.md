@@ -11,6 +11,7 @@ Talks, Blogs, Videos | Everything I found worth sharing - All Free, all awesome
 ### Articles/Blogs/Reading Materials;
 - [Pure Functions Immutability and other software superpowers](https://medium.com/dailyjs/pure-functions-immutability-and-other-software-superpowers-dfe6039af8f6)
 - [Learn Typescript in 30 minutes](https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes)
+- [Move Over Redux: Apollo-Client as a State Management](https://engineering.circle.com/https-medium-com-mattdionis-move-over-redux-apollo-client-as-a-state-management-solution-1f9325f96cdd)
 
 
 <br><br>
