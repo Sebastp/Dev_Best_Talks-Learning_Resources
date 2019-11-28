@@ -1,5 +1,5 @@
 # Dev_Best_Talks-Learning_Resources
-Talks, Blogs, Videos | Everything I found worth sharing - All Free, all awesome
+Talks, Blogs, Videos | Everything I found worth sharing - All Free, all great
 
 ### Videos
 - [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)
