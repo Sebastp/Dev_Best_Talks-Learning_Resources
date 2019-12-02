@@ -21,8 +21,8 @@ Talks, Blogs, Videos | Everything I found worth sharing - All Free, all great
 
 <br><br>
 ### Other Resource worth using;
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs)
-- [React.js](https://github.com/enaqx/awesome-react/blob/master/README.md)
+- [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
+- [Awesome React.js](https://github.com/enaqx/awesome-react/blob/master/README.md)
 
 <br><br>
 ### Project Templates/Boostraps
