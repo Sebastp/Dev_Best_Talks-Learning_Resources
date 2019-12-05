@@ -20,9 +20,11 @@ Talks, Blogs, Videos | Everything I found worth sharing - All Free, all great
 - [Clean Code vs. Dirty Code](https://americanexpress.io/clean-code-dirty-code/)
 
 <br><br>
-### Other Resource worth using;
+### Other resources worth checking out;
 - [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
 - [Awesome React.js](https://github.com/enaqx/awesome-react/blob/master/README.md)
+- [JavaScript for People in a Hurry](http://jstherightway.org)
+
 
 <br><br>
 ### Project Templates/Boostraps
