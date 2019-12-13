@@ -6,6 +6,7 @@ Talks, Blogs, Videos | Everything I found worth sharing - All Free, all great
 - [Context management choice](https://www.youtube.com/watch?v=Q54YDGC_t3Y)
 - [From Monolith to Islands: The Journey to Developers](https://www.youtube.com/watch?v=f7BMSVhZan0&t=783s) with [@engfragui](https://github.com/engfragui)
 - [Building GraphQL - Native Microservices](https://www.youtube.com/watch?v=WhYjSFKNhBA)
+- [Building Resilient Frontend Architecture](https://www.youtube.com/watch?v=TqfbAXCCVwE)
 
 <br><br>
 ### Articles/Blogs/Reading Materials;
@@ -18,6 +19,7 @@ Talks, Blogs, Videos | Everything I found worth sharing - All Free, all great
 - [Best Practices in Programming](https://whitelabelcoders.com/best-practices-in-programming-based-on-solid-kiss-and-personal-experience/)
 - [2019 ReactJS Best Practices](https://medium.com/@konstankino/2019-reactjs-best-practices-design-patterns-516e1c3ca06a)
 - [Clean Code vs. Dirty Code](https://americanexpress.io/clean-code-dirty-code/)
+
 
 <br><br>
 ### Other resources worth checking out;
